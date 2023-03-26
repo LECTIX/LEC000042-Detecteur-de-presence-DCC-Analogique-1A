@@ -29,6 +29,8 @@ Il n'est **pas nécessaire de savoir souder ou d'être bon en électronique** po
 
 Il est aujourd'hui possible de faire fabriquer à moindre cout des cartes électroniques. Nous recommendons [JLCPCB](https://jlcpcb.com/) si vous voulez aller au moins cher. Si vous préférez un acteur européen, [eurocircuits](https://www.eurocircuits.com/) est un des acteurs reconnus.
 
+[![IMAGE ALT TEXT](https://user-images.githubusercontent.com/21155051/227790488-3d505f7f-50a5-4423-a540-14bc276046c1.png)](http://www.youtube.com/watch?v=RXGGvsUtz0c "TUTO : faire fabriquer un produit LECTIX")
+
 1. Télécherger les sources de ce produit en cliquant sur le bouton `Code`, puis `Download ZIP`.
 1. Décompresser le dossier.
 1. Les fichiers pour la fabrication se trouvent dans le répertoire `hardware/prod`.

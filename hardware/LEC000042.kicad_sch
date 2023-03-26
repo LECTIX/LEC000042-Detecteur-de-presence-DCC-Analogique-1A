@@ -3332,10 +3332,6 @@
     (uuid ffa442c7-cbef-461f-8613-c211201cec06)
   )
 
-  (text "TODO :\n\n" (at -27.94 83.82 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid dd1edfbb-5fb6-42cd-b740-fd54ab3ef1f1)
-  )
   (text "Vout = 1,23*(1+R2/R3)" (at 107.95 182.88 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid df2a6036-7274-4398-9365-148b6ddab90d)
